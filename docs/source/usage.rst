@@ -34,5 +34,5 @@ For example:
 
 :doc:`Intersphinx <sphinx:usage/extensions/intersphinx>`
 
-:doc:`ZYZ <mysub:usage/installation>`
+:doc:`ZYZ <mysub:usage/>`
 
