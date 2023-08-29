@@ -36,3 +36,4 @@ For example:
 
 :doc:`ZYZ <mysub:usage>`
 
+:doc:`API <api>`
