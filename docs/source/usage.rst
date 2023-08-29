@@ -32,3 +32,7 @@ For example:
 >>> lumache.get_random_ingredients()
 ['shells', 'gorgonzola', 'parsley']
 
+:doc:`Intersphinx <sphinx:usage/extensions/intersphinx>`
+
+:doc:`ZYZ <mysub:usage/installation>`
+
